@@ -66,8 +66,8 @@ console.log(isMyFatherRealyDead)
 const myNameIsNotKenneth = false
 console.log(myNameIsNotKenneth)
 //5
-const LearningHowToCodeJs = true
-console.log(LearningHowToCodeJs)
+const learnHowToCodeNew = true
+console.log(learnHowToCodeNew)
 
 //CREATING AN UNDIFINED DATATYPE and later defined.
 //1
