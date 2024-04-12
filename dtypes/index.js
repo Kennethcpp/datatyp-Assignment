@@ -72,12 +72,12 @@ console.log(learnHowToCodeNew)
 //CREATING AN UNDIFINED DATATYPE and later defined.
 //1
 let myNameIsKennethOnyeonoro = "" //undefined
-
  myNameIsKennethOnyeonoro = "True" //defined
 console.log(myNameIsKennethOnyeonoro)
 //2
 let myBestFoodBeThis = ""
 myBestFoodBeThis = "Rice"
+console.log(myBestFoodBeThis)
 //3
 let isTheNameGoodName = ""
 isTheNameGoodName = "Yes"
