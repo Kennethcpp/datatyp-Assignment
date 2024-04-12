@@ -71,23 +71,23 @@ console.log(learnHowToCodeNew)
 
 //CREATING AN UNDIFINED DATATYPE and later defined.
 //1
-let myNameIsKennethOnyeonoro = "" //undefined
+let myNameIsKennethOnyeonoro //undefined and later defined
  myNameIsKennethOnyeonoro = "True" //defined
 console.log(myNameIsKennethOnyeonoro)
 //2
-let myBestFoodBeThis = ""
+let myBestFoodBeThis
 myBestFoodBeThis = "Rice"
 console.log(myBestFoodBeThis)
 //3
-let isTheNameGoodName = ""
+let isTheNameGoodName
 isTheNameGoodName = "Yes"
 console.log(isTheNameGoodName)
 //4
-let myFatherMotherIsAunt = ""
+let myFatherMotherIsAunt
 myFatherMotherIsAunt = "No"
 console.log(myFatherMotherIsAunt)
 //5
-let thisIsAnUndefinedVariable = ""
+let thisIsAnUndefinedVariable
 thisIsAnUndefinedVariable = "Yes"
 console.log(thisIsAnUndefinedVariable)
 
